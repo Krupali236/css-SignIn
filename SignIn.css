@@ -18,7 +18,6 @@ body {
     width: 100%;
     height: 100%;
     background: -webkit-linear-gradient(left, rgba(0, 168, 255, 0.5), rgba(185, 0, 255, 0.5));
-    /* style="z-index: 1;position: relative;width: 100%;height: 100%;background: -webkit-linear-gradient(left, rgba(0, 168, 255, 0.5), rgba(185, 0, 255, 0.5));" */
 }
 .container {
     position: relative;
@@ -65,8 +64,6 @@ a {
 }
 img {
     margin: 15px 5px;
-    /* box-shadow: 10px 8px 16px 0px rgba(0, 0, 0, 0.2); */
-    /* text-shadow: 2px 2px 4px #000000; */
     filter: drop-shadow(3px 4px 3px #0003);
     height: 30px;
     width: 30px;
